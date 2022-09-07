@@ -26,7 +26,7 @@ class HEX_parse:
                     self.FLASH.append(hex_val)
                     i += 2
 
-            # ///////FLASH AREA///////////////////////////////////
+                # ///////FLASH AREA///////////////////////////////////
 
         return self.FLASH
 
